@@ -132,7 +132,7 @@ body {
 	gap: 20px;
 	flex-wrap: wrap;
 	margin-bottom: 20px;
-	justify-content: center;
+	justify-content: center;	
 }
 
 .projetos .projeto {
@@ -144,10 +144,12 @@ body {
 
 .projetos .projeto.ativo {
 	display: block;
+	
 }
 
 .projetos .projeto img {
 	height: 100%;
+	
 }
 
 .projetos .projeto h3 {
